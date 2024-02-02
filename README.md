@@ -1,4 +1,4 @@
-# Carter Nichols - Fullstack Developer
+# Carter Nichols - Full Stack Developer
 
 ![Green Simple Personal LinkedIn Banner (1)](https://github.com/CarterN2000/CarterN2000/assets/134171027/f101b7b0-56fd-4b7f-b7c1-a42a53f5b2e6)
 
